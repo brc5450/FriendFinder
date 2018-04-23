@@ -20,7 +20,7 @@ You will be notified which PORT to visit in your localhost
 
 In your browser, as the URL type:
 
-        localhost:PORT 
+    localhost:PORT 
     
     For Example: localhost:8080
 ## Technologies Used:
