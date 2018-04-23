@@ -11,7 +11,7 @@ To Install Friend Finder and run locally:
 
 In the Terminal:
 
-    git clone git@github.com:aidanclemente/FriendFinder.git
+    git clone https://github.com/brc5450/FriendFinder.git
     cd FriendFinder
     npm install
     node server.js
