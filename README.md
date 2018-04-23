@@ -3,7 +3,7 @@
 ## Description:
 Friend Finder is a full-stack site and meant to imitate a simple dating application. The user answers a short, 10 question survey. Based on the answers provided, the user is returned the name and picture of the closest matching friend in the database. The closest matching friend has the lowest, total difference between question responses.
 
-##Instructions:
+## Instructions:
 Friend Finder is deployed to Heroku! Visit:  to demo the application and find a friend with the greatest compatibility!
 
 ## To Run Locally:
